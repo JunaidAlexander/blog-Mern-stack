@@ -1,0 +1,36 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; /* Optional: to vertically center align the items */
+  padding: 10px 20px
+}
+
+
+.profile {
+
+
+}
+
+button {
+  background-color: rgb(255, 45, 96);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.menu-links:hover {
+  background-color: rgb(255, 45, 96);
+  border-radius: 10px;
+  width: 50px;
+
+
+}
