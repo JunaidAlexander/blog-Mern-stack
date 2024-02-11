@@ -5,7 +5,7 @@ export default function Home() {
 	return (
 		<div>
 			<div className="heading">
-				<h1 className="head-text01">Explore the Latest </h1>
+				<h1 className="head-text01">Explore the Latest in </h1>
         <h1 className="head-text02">the Tech Industry</h1>
 			</div>
 			<div className="heading-text">
