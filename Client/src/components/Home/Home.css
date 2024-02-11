@@ -2,6 +2,37 @@ body {
   background-color: #17191c;
 }
 
-h1 {
+
+
+.heading {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  gap: 10px
+}
+
+p {
+  display: inline;
+  justify-content: center;
+}
+
+.head-text01 {
+  color: white;
+}
+
+.head-text02 {
+  color: rgb(255, 45, 96);
+  ;
+}
+
+
+.header-img {
+  display: flex;
+  justify-content: center;
+
+}
+
+.heading-text {
+  justify-content: center;
   color: white;
 }
